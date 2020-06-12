@@ -1,3 +1,23 @@
+.room { 
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  top: 0;
+  left: 0;
+}
+
+.lit {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+/*
+
 .App {
   text-align: center;
 }
@@ -36,3 +56,4 @@
     transform: rotate(360deg);
   }
 }
+*/
